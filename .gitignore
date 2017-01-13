@@ -1,0 +1,15 @@
+.DS_Store
+.idea
+*.iml
+*.html
+*.pyc
+*.pyo
+*.sublime-project
+*.sublime-workspace
+tmp
+.ropeproject
+.codeintel
+*.out
+*.class
+out
+__pycache__
